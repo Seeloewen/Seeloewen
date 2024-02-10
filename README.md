@@ -2,7 +2,7 @@
 
 I'm Louis, a hobby developer from Germany. I work on a bunch of different projects at the same time but I'm mostly known for the Random Item Giver Datapack. You should also check out my other projects though, they are great as well! Because of school, I'm not as active as I used to be but I'm still trying to get out some updates every now and then.
 
-## 🔧 Projects I'm working on...
+## 🔧 Projects that I'm working on...
 My main project is currently the [Random Item Giver Datapack](https://github.com/Seeloewen/Random-Item-Giver-Datapack) and the [Random Item Giver Updater](https://github.com/Seeloewen/Random-Item-Giver-Updater).
 
 My side projects are the [Random Item Giver Updater Legacy](https://github.com/Seeloewen/Random-Item-Giver-Updater-Legacy), [Seeloewen Sync](https://github.com/Seeloewen/Seeloewen-Sync), [Seeloewen Shutdown](https://github.com/Seeloewen/Seeloewen-Shutdown) and [SeeloewenLib](https://github.com/Seeloewen/SeeloewenLib).
