@@ -18,4 +18,4 @@ My side projects are the [Random Item Giver Updater Legacy](https://github.com/S
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 📊 My Statistics...
-![Seeloewen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seeloewen)
+![Seeloewen's GitHub Stats](https://github-stats-extended.vercel.app/api?username=seeloewen)
